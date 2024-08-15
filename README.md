@@ -1,6 +1,10 @@
 # Password Generator
 ![Password Generator Screenshot](image/screenshot.jpg)
 
+## Live Demo
+
+Check out the live demo of the Password Generator: [Live Demo](https://albert-password-generator.netlify.app/)
+
 ## Overview
 
 This project is a simple, responsive password generator web application. It allows users to generate random passwords with a single click and easily copy them to their clipboard for secure use. The application is designed with a user-friendly interface and built using HTML, CSS, and JavaScript.

@@ -129,7 +129,7 @@ hr {
 /* Media Queries for Small Screens */
 @media (max-width: 768px) {
     .main-container {
-        width: 82%;
+        width: 84%;
         height: 100vh;
     }
     h1 {
